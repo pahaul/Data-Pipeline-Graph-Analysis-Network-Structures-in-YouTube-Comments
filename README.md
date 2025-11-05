@@ -1,0 +1,2 @@
+# Data-Pipeline-Graph-Analysis-Network-Structures-in-YouTube-Comments
+This project implements an ETL pipeline in Python to aggregate, clean, and model unstructured data originating from the comment sections of several thematically similar YouTube videos. The goal is to create a network structure (Graph Data Modeling) to visualize the interactions and overlaps of the Top 50 commentators across various video channels.
